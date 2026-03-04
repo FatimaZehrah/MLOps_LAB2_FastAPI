@@ -1,7 +1,5 @@
 ## IE7374 – MLOps Lab 2: FastAPI ML Inference Service
 
-This repository contains **Lab 2** for the course **IE7374: MLOps**.
-
 The objective of this lab is to build a production-style machine learning inference service using **FastAPI**. The project covers the complete workflow from model training and serialization to API deployment, automated testing, and CI validation.
 
 This lab demonstrates important MLOps principles such as modular design, reproducibility, API-based model serving, test-driven validation, and continuous integration using GitHub Actions.
